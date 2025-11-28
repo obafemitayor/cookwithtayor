@@ -7,8 +7,6 @@
 3. [Repository Structure](#repository-structure)
 4. [Technical Decisions and Trade-offs](#technical-decisions-and-trade-offs)
 5. [How to Launch the App](#how-to-Launch-the-App)
-   - [Online](#online)
-   - [Locally](#locally)
 6. [How to Run the Tests](#how-to-run-the-tests)
    - [Backend Tests](#backend-tests)
    - [Frontend Tests](#frontend-tests)
