@@ -28,9 +28,6 @@ The application follows a simple two-step onboarding process:
 2. **Ingredient Selection**: After providing their email, users are prompted to add ingredients from their pantry. Users can search for and select ingredients, or add custom ingredients if needed. At least one ingredient must be added to proceed.
 
 Once onboarding is complete, users can immediately see the most relevant recipes they can prepare. On subsequent visits, users who have already onboarded are automatically redirected to their recipe results, creating a smoother and more seamless experience.
-
-You can launch the app by visiting the [Online](#online) part in the [How to Launch the App](#how-to-launch-the-app) section.
-
 ---
 
 ## User Stories
@@ -222,15 +219,6 @@ obafemitayor/
 ---
 
 ## How to Launch the App
-
-You can launch the app either locally, or by visiting the online url.
-
-### Online
-
-You can access the app by visting [https://cookwithtayor.vercel.app](https://cookwithtayor.vercel.app).
-Here is a short [demo](https://www.loom.com/share/c3728deb5db94a69876faa7179333059) of how it works.
-
-### Locally
 
 #### Prerequisites
 
