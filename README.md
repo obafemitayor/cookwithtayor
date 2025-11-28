@@ -5,7 +5,7 @@
 1. [Introduction](#introduction)
 2. [User Stories](#user-stories)
 3. [Repository Structure](#repository-structure)
-4. [Technical Decisions and Trade-offs](#technical-decisions-assumptions-and-trade-offs)
+4. [Technical Decisions and Trade-offs](#technical-decisions-and-trade-offs)
 5. [How to Launch the App](#how-to-Launch-the-App)
    - [Online](#online)
    - [Locally](#locally)
@@ -207,7 +207,7 @@ obafemitayor/
 
 ---
 
-## Technical Decisions, Assumptions and Trade-offs
+## Technical Decisions and Trade-offs
 
 - Before seeding the database with the provided data, I used a Rake script and OpenAI’s API to normalize all recipe ingredients and ensure consistent naming. I didn’t include the script in the repository because it depends on OpenAI’s API to run.
 
